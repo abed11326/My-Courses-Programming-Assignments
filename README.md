@@ -5,5 +5,4 @@ Courses included in this repository:
 - [Generative Adversarial Networks Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans).
 - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning).
 <br><br>
-**Note**: In these courses, not all the notebook was written by learners. Instead, the instructor provides the body of the notebook and the learner have to fill specific parts. <br> 
-There exist comments indicating where the learner have to fill.
+**Note**: In these courses, not all the notebook was written by learners. Instead, the instructor provides the body of the notebook and the learner have to fill specific parts. There exist comments indicating where the learner have to fill.
